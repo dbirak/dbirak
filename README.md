@@ -13,5 +13,7 @@ I am interested in creating websites and technologies related to them.
 
 ### Fullstack projects:
 - <img src="https://github.com/dbirak/dbirak/assets/41111309/ca8e4723-2012-4ddb-a234-183e9678c3de" width="16" height="16" style="position: relative; top: 5px;" /> - **[Tech Hub](https://github.com/dbirak/tech_hub)** - A platform that allows companies to search for programmers.<br><br>
-- <img src="https://github.com/dbirak/dbirak/assets/41111309/ca8e4723-2012-4ddb-a234-183e9678c3de" width="16" height="16" style="position: relative; top: 5px;" /> - **[Work Hunter (backend)](https://github.com/dbirak/recruitment_system_backend)** - The backend part of the application supporting the recruitment process for companies and people looking for a new job.
-- <img src="https://github.com/dbirak/dbirak/assets/41111309/15111c8e-9f86-4264-82f0-25617315d7cd" width="16" height="16" style="position: relative; top: 5px;" /> - **[Work Hunter (frontend)](https://github.com/dbirak/recruitment_system_frontend)** - The frontend part of the application supporting the recruitment process for companies and people looking for a new job.
+- <img src="https://github.com/dbirak/dbirak/assets/41111309/ca8e4723-2012-4ddb-a234-183e9678c3de" width="16" height="16" style="position: relative; top: 5px;" /> - **[Work Hunter (backend)](https://github.com/dbirak/recruitment_system_backend)** - 
+The backend supports the recruitment process for companies and job seekers.
+- <img src="https://github.com/dbirak/dbirak/assets/41111309/15111c8e-9f86-4264-82f0-25617315d7cd" width="16" height="16" style="position: relative; top: 5px;" /> - **[Work Hunter (frontend)](https://github.com/dbirak/recruitment_system_frontend)** - 
+The frontend supports the recruitment process for companies and job seekers.
